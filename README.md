@@ -1,6 +1,6 @@
 # Image Analysis FMAN20 Demo Code ported to Python
 
-FMAN20 is an image analysis course at LTH, Lund University.
+FMAN20 is an image analysis course at LTH, Lund University. The course web site is here: http://www.ctr.maths.lu.se/course/newimagean/
 
 For educational purposes, a number of illustrative demo scripts were developed to run in MATLAB.
 
